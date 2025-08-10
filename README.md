@@ -3,7 +3,7 @@
 - Built with HTML, Tailwind CSS using CDN & JavaScript.
 - Simple, straightforward, and responsive UI, adapting to small, medium, and large sized screen.
 - Takes two inputs such as weight in kg and height in cm and displays BMI calculation instantly using JS.
-- Coverts cm into m for the height input via JS.
+- Converts cm into m for the height input via JS.
 - Handles input validation via JS.
 
 ## Screenshot 📸
